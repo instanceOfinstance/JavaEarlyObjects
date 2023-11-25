@@ -1,0 +1,27 @@
+The part of the computer that fetches instructions, carries out the operations commanded by the instructions, and produces some outcome or resultant information is the CPU.
+
+A byte is made up of eight bits.
+
+Each byte is assigned a unique address.
+
+This type of memory can hold data for long periods of time even when there is no power to the computer: secondary storage (disk drive)
+
+If you were to look at a machine language program, you would see a stream of binary numbers.
+
+These are words that have a special meaning in the programming language: key words
+
+These are symbols or words that perform operations on one or more operands: operators
+
+These characters serve specific purposes, such as making the beginning or ending of a statement, or separating items in a list: punctuation
+
+These are words or names that are used to identify storage locations in memory and parts of the program that are created by the programmer: programmer-defined names
+
+These are the rules that must be followed when writing a program: syntax
+
+This is a named storage location in the computer's memory: variables
+
+The Java compiler generates byte code.
+
+JVM stands for Java Virtual Machine.
+
+
